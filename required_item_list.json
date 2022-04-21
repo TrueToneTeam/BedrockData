@@ -735,6 +735,10 @@
         "runtime_id": -340,
         "component_based": false
     },
+    "minecraft:copper_horn": {
+        "runtime_id": 647,
+        "component_based": false
+    },
     "minecraft:copper_ingot": {
         "runtime_id": 504,
         "component_based": false
@@ -1961,6 +1965,10 @@
     },
     "minecraft:glowstone_dust": {
         "runtime_id": 394,
+        "component_based": false
+    },
+    "minecraft:goat_horn": {
+        "runtime_id": 646,
         "component_based": false
     },
     "minecraft:goat_spawn_egg": {
@@ -3772,7 +3780,7 @@
         "component_based": false
     },
     "minecraft:spyglass": {
-        "runtime_id": 625,
+        "runtime_id": 626,
         "component_based": false
     },
     "minecraft:squid_spawn_egg": {

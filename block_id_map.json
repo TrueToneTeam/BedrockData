@@ -466,7 +466,7 @@
     "minecraft:lit_blast_furnace": 469,
     "minecraft:light_block": 470,
     "minecraft:wither_rose": 471,
-    "minecraft:stickyPistonArmCollision": 472,
+    "minecraft:sticky_piston_arm_collision": 472,
     "minecraft:bee_nest": 473,
     "minecraft:beehive": 474,
     "minecraft:honey_block": 475,
@@ -696,15 +696,27 @@
     "minecraft:raw_copper_block": 707,
     "minecraft:raw_gold_block": 708,
     "minecraft:infested_deepslate": 709,
+	
     "minecraft:sculk": 713,
     "minecraft:sculk_vein": 714,
     "minecraft:sculk_catalyst": 715,
     "minecraft:sculk_shrieker": 716,
+	
     "minecraft:client_request_placeholder_block": 720,
-    "minecraft:mysterious_frame": 721,
-    "minecraft:mysterious_frame_slot": 722,
+    "minecraft:reinforced_deepslate": 721,
+    
     "minecraft:frog_spawn": 723,
     "minecraft:pearlescent_froglight": 724,
     "minecraft:verdant_froglight": 725,
-    "minecraft:ochre_froglight": 726
+    "minecraft:ochre_froglight": 726,
+    "minecraft:mangrove_leaves": 727,
+    "minecraft:mud": 728,
+    "minecraft:mangrove_propagule": 729,
+    "minecraft:mud_bricks": 730,
+    "minecraft:mangrove_propagule_hanging": 731,
+    "minecraft:packed_mud": 732,
+    "minecraft:mud_brick_slab": 733,
+    "minecraft:mud_brick_double_slab": 734,
+    "minecraft:mud_brick_stairs": 735,
+    "minecraft:mud_brick_wall": 736
 }
