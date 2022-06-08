@@ -735,10 +735,6 @@
         "runtime_id": -340,
         "component_based": false
     },
-    "minecraft:copper_horn": {
-        "runtime_id": 647,
-        "component_based": false
-    },
     "minecraft:copper_ingot": {
         "runtime_id": 504,
         "component_based": false

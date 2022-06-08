@@ -1008,15 +1008,15 @@
     "minecraft:record_otherside": 773,
 
     "minecraft:soul_campfire": 801,
-	
+    
     "minecraft:glow_frame": 850,
 
     "minecraft:copper_ingot": 870,
     "minecraft:glow_berries": 871,
-    "minecraft:copper_horn": 872,
+
     "minecraft:chest_boat": 873,
-	"minecraft:mangrove_door": 874,
-	"minecraft:mangrove_sign": 875,
+    "minecraft:mangrove_door": 874,
+    "minecraft:mangrove_sign": 875,
     "minecraft:echo_shard": 876,
     "minecraft:recovery_compass": 877,
     "minecraft:disc_fragment_5": 878,
