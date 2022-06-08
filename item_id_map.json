@@ -1,4 +1,22 @@
 {
+    "minecraft:mangrove_double_slab": -499,
+    "minecraft:stripped_mangrove_wood": -498,
+    "minecraft:mangrove_wood": -497,
+    "minecraft:mangrove_trapdoor": -496,
+    "minecraft:mangrove_wall_sign": -495,
+    "minecraft:mangrove_standing_sign": -494,
+    "minecraft:item.mangrove_door": -493,
+    "minecraft:mangrove_fence_gate": -492,
+    "minecraft:mangrove_fence": -491,
+    "minecraft:mangrove_pressure_plate": -490,
+    "minecraft:mangrove_slab": -489,
+    "minecraft:mangrove_stairs": -488,
+    "minecraft:mangrove_button": -487,
+    "minecraft:mangrove_planks": -486,
+    "minecraft:stripped_mangrove_log": -485,
+    "minecraft:mangrove_log": -484,
+    "minecraft:muddy_mangrove_roots": -483,
+    "minecraft:mangrove_roots": -482,
     "minecraft:mud_brick_wall": -481,
     "minecraft:mud_brick_stairs": -480,
     "minecraft:mud_brick_double_slab": -479,
@@ -137,7 +155,7 @@
     "minecraft:weathered_copper": -342,
     "minecraft:exposed_copper": -341,
     "minecraft:copper_block": -340,
-    "minecraft:glow_frame": -339,
+    "minecraft:item.glow_frame": -339,
     "minecraft:flowering_azalea": -338,
     "minecraft:azalea": -337,
     "minecraft:small_dripleaf": -336,
@@ -947,13 +965,22 @@
     "minecraft:record_ward": 509,
     "minecraft:record_11": 510,
     "minecraft:record_wait": 511,
-    
+
     "minecraft:shield": 513,
-    
+
+    "minecraft:glow_ink_sac": 518,
+
+    "minecraft:raw_iron": 520,
+    "minecraft:raw_gold": 521,
+    "minecraft:raw_copper": 522,
+
     "minecraft:campfire": 720,
+
     "minecraft:suspicious_stew": 734,
+
     "minecraft:honeycomb": 736,
     "minecraft:honey_bottle": 737,
+
     "minecraft:lodestonecompass": 741,
     "minecraft:netherite_ingot": 742,
     "minecraft:netherite_sword": 743,
@@ -974,18 +1001,24 @@
     "minecraft:chain": 758,
     "minecraft:record_pigstep": 759,
     "minecraft:nether_sprouts": 760,
+    "minecraft:goat_horn": 761,
+
+    "minecraft:amethyst_shard": 771,
+    "minecraft:spyglass": 772,
+    "minecraft:record_otherside": 773,
+
     "minecraft:soul_campfire": 801,
 	
-    "minecraft:goat_horn": 820,
-    "minecraft:copper_ingot": 821,
-    "minecraft:glow_ink_sac": 822,
-    "minecraft:item.glow_frame": 823,
-    "minecraft:glow_berries": 824,
-    "minecraft:amethyst_shard": 825,
-    "minecraft:spyglass": 826,
-    "minecraft:raw_iron": 827,
-    "minecraft:raw_gold": 828,
-    "minecraft:raw_copper": 829,
-    "minecraft:record_otherside": 830,
-	"minecraft:copper_horn": 831
+    "minecraft:glow_frame": 850,
+
+    "minecraft:copper_ingot": 870,
+    "minecraft:glow_berries": 871,
+    "minecraft:copper_horn": 872,
+    "minecraft:chest_boat": 873,
+	"minecraft:mangrove_door": 874,
+	"minecraft:mangrove_sign": 875,
+    "minecraft:echo_shard": 876,
+    "minecraft:recovery_compass": 877,
+    "minecraft:disc_fragment_5": 878,
+    "minecraft:record_5": 879
 }
